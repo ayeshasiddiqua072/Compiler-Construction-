@@ -1,0 +1,19 @@
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.exe.config
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.exe
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.pdb
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.Form1.resources
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.Properties.Resources.resources
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.exe
+C:\Users\HP\source\repos\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.pdb
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.exe.config
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.exe
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.pdb
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.exe
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\bin\Debug\CC_Mid_Question2.pdb
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.csprojResolveAssemblyReference.cache
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.Form1.resources
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.Properties.Resources.resources
+C:\Users\teenager\Desktop\CC MID-TERM\CC_Mid_Question2\CC_Mid_Question2\obj\Debug\CC_Mid_Question2.csproj.GenerateResource.Cache
